@@ -21,24 +21,10 @@ Real-world Full Stack project experience and best coding practices
 Frontend Development, Backend Basics, Full Stack Project Setup
 
 📫 How to reach me:
-your-email@gmail.com
-
-😄 Pronouns:
-He / Him
+karankohapare5134@gmail.com
 
 ⚡ Fun fact:
 I love turning ideas into working web applications 💻🚀
-
-
-
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
 
 
 ## 🌐 Socials:
